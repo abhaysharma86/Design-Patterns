@@ -2,7 +2,6 @@
 
 Basic Patterns:
 --------------
-
 Singleton
 Factory
 Builder
